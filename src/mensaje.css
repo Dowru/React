@@ -1,5 +1,8 @@
-*{
-    
+
+.mensaje{
+    background-color: #ffffff10;
+    display: flex;
+    justify-content: center;
 }
 
 body{

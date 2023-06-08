@@ -4,9 +4,9 @@ import "../mensaje.css"
 const Main = ({ text }) => {
 
     return (
-        <section>
+        <main>
             <p>No se que Main hacer pero al fin y al cabo es el Main con un texto </p>
-        </section>
+        </main>
     );
 }
 export default Main;
